@@ -17,7 +17,7 @@ public class Hospede
 
     public void ExibirInformacoes()
         {
-        Console.WriteLine("*** Informacoes do Hospede");
+        Console.WriteLine("*** Informacoes do Hospede ***");
         Console.WriteLine($"Nome: {Nome}\nCPF: {CPF}\nTelefone: {Telefone}");
     }
 }

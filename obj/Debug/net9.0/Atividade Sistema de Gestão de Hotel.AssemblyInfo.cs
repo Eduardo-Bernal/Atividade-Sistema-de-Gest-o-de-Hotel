@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atividade Sistema de Gestão de Hotel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cead6dab62ab20681dca53a9d603f393cf67042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbd95627e773e192e7575ba6a22d323a712afc31")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atividade Sistema de Gestão de Hotel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atividade Sistema de Gestão de Hotel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

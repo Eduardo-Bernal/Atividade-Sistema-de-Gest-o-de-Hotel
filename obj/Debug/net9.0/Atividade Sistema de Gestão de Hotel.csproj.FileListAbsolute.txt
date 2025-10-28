@@ -1,0 +1,15 @@
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\bin\Debug\net9.0\Atividade Sistema de Gestão de Hotel.exe
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\bin\Debug\net9.0\Atividade Sistema de Gestão de Hotel.deps.json
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\bin\Debug\net9.0\Atividade Sistema de Gestão de Hotel.runtimeconfig.json
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\bin\Debug\net9.0\Atividade Sistema de Gestão de Hotel.dll
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\bin\Debug\net9.0\Atividade Sistema de Gestão de Hotel.pdb
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.AssemblyInfoInputs.cache
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.AssemblyInfo.cs
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.csproj.CoreCompileInputs.cache
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.sourcelink.json
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.dll
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\refint\Atividade Sistema de Gestão de Hotel.dll
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.pdb
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\Atividade Sistema de Gestão de Hotel.genruntimeconfig.cache
+C:\Users\44438098807\Desktop\Atividade Sistema de Gestão de Hotel\obj\Debug\net9.0\ref\Atividade Sistema de Gestão de Hotel.dll
